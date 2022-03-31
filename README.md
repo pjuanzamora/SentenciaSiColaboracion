@@ -5,11 +5,11 @@ Seleccionar dos ejercicios del pdf para hacer y realizar un pull request para ca
 
 Relación de ejercicios
 1-Ismael 
-2-Ismael
+2-
 3-Juan Carlos
-4-Juan Carlos
-5-
-6-
+4-
+5-Ismael
+6-Juan Carlos
 7-
 8-
 9-
