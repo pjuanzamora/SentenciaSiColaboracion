@@ -10,7 +10,7 @@ Relación de ejercicios
 4-
 5-Ismael
 6-Juan Carlos
-7-
+7-Jose
 8-
 9-
 10-
@@ -18,7 +18,7 @@ Relación de ejercicios
 12-
 13-
 14-
-15-
+15-Jose
 16-
 17-
 18-
