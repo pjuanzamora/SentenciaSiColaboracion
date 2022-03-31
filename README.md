@@ -10,10 +10,10 @@ Relación de ejercicios
 4-
 5-Ismael
 6-Juan Carlos
-7-
+7- Daniel
 8-
 9-
-10-
+10- Daniel
 11-
 12-
 13-
