@@ -13,9 +13,9 @@ Relación de ejercicios
 7. Daniel
 7. Jose
 8. 
-9. 
+9. Fran
 10. Daniel
-11. 
+11. Franº
 12. 
 13. 
 14. 
