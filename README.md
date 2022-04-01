@@ -5,9 +5,9 @@ Seleccionar dos ejercicios del pdf para hacer y realizar un pull request para ca
 
 Relación de ejercicios
 1. Ismael 
-2. 
+2. Antonio Pérez
 3. Juan Carlos
-4. 
+4. Antonio Pérez
 5. Ismael
 6. Juan Carlos
 7. Daniel
