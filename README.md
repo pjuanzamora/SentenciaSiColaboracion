@@ -16,13 +16,13 @@ Relación de ejercicios
 9. Fran
 10. Daniel
 11. Franº
-12. 
+12. Hugo
 13. 
 14. 
 15. Jose
 16. 
 17. 
-18. 
+18. Hugo
 19. 
 20. 
 
