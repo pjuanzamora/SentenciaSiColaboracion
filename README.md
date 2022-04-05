@@ -18,12 +18,12 @@ Relación de ejercicios
 11. Franº
 12. Hugo
 13. 
-14. 
+14. José Alberto
 15. Jose
-16. 
-17. 
-18. Hugo
-19. 
+16. José Alberto
+18. 
+19. Hugo
 20. 
+21. 
 
 
